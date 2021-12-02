@@ -1,0 +1,108 @@
+@media (min-width: 1370px) {
+	.container {
+		width: 1320px; }
+	.col-lg-12 {
+		width: 100%; }
+	.col-lg-11 {
+		width: 91.66666667%; }
+	.col-lg-10 {
+		width: 83.33333333%; }
+	.col-lg-9 {
+		width: 75%; }
+	.col-lg-8 {
+		width: 66.66666667%; }
+	.col-lg-7 {
+		width: 58.33333333%; }
+	.col-lg-6 {
+		width: 50%; }
+	.col-lg-5 {
+		width: 41.66666667%; }
+	.col-lg-4 {
+		width: 33.33333333%; }
+	.col-lg-3 {
+		width: 25%; }
+	.col-lg-2 {
+		width: 16.66666667%; }
+	.col-lg-1 {
+		width: 8.33333333%; }
+	div.search-translate {
+		margin-right: 2px;
+	}
+	div.search-overlay {
+		right: 130px;
+		width: 36%;
+	}
+	#post-16 img {
+		height: 280px;
+	}
+	.gradient-1::before {
+		width: 97.8%;
+	}
+	.gradient-2::before {
+		width: 95.6%;
+	}
+	.gradient-3::before,
+	.gradient-5::before,
+	.gradient-6::before {
+		bottom: 0;
+		width: 95.5%;
+	}
+	.gradient-4::before {
+		bottom: 0;
+		width: 95.4%;
+	}
+	.gradient-5::before {
+		height: 100%;
+	}
+	.blackout-1::after,
+	.blackout-2::after,
+	.blackout-3::after,
+	.blackout-4::after {
+		left: 15px;
+		right: 15px;
+		bottom: 0px;
+	}
+	.blackout-5::after,
+	.blackout-6::after,
+	.blackout-7::after,
+	.blackout-8::after {
+		left: 15px;
+		right: 15px;
+		bottom: 71px;
+	}
+	.blackout-6::after {
+		bottom: 80px;
+	}
+	.blackout-7::after,
+	.blackout-8::after {
+		bottom: 50px;
+	}
+	.description-absolute a.category {
+		font-size: 13px;
+	}
+	.description-absolute a.post-title h2 {
+		font-size: 25px;
+		color: #fff;
+	}
+	.description .post-title h3 {
+		font-size: 16px;
+		line-height: 1.35;
+	}
+	.content .row:nth-child(2) .row-2:first-child .post-title,
+	.content .row:nth-child(8) .row-2:first-child .post-title,
+	.content .row:nth-child(5) .row-2:first-child .post-title {
+		bottom: 25px;
+	}
+	.content .row:nth-child(4) .row-2:first-child .category {
+		bottom: 150px;
+	}
+	.content .row:nth-child(1) .row-3:nth-child(2) .category,
+	.content .row:nth-child(4) .row-2:nth-child(2) .category,
+	.content .row:nth-child(5) .row-2:first-child .category {
+		bottom: 95px; 
+	}
+	.content .row:first-child .row-2:first-child .category, 
+	.content .row:nth-child(6) .row-2:first-child .category {
+		bottom: 65px;
+	}
+}
